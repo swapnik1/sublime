@@ -1,0 +1,11 @@
+{
+	"caret_style": "solid",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_size": 10,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_completion": true
+}
