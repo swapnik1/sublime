@@ -3,6 +3,7 @@ Cache
 Index
 Local
 *.cache
-Packages/User/Package Control.last-run
-Packages/User/Package Control.system-ca-bundle
-Packages/User/Package Control.cache
+*.last-run
+Packages/User/Package\ Control.last-run
+Packages/User/Package\ Control.system-ca-bundle
+Packages/User/Package\ Control.cache
